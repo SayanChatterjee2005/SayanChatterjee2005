@@ -1,4 +1,4 @@
-![logo](https://github.com/SayanChatterjee2005/SayanChatterjee2005/blob/main/github-header-image.png)
+ ![logo](https://github.com/SayanChatterjee2005/SayanChatterjee2005/blob/main/github-header-image.png)  
 <h1 align="center">Hi 👋, I'm Sayan Chatterjee</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
@@ -18,18 +18,27 @@
 - 👨‍💻 All of my projects are available at **[Portfolio Coming Soon](#)**  
 - 💬 Ask me about **Frontend Development, React.js, UI/UX, or Tech Stack Planning**  
 - 📫 Reach me at: **sayanchatterjee7908@gmail.com**  
-- 📄 My Resume: [View PDF](#) <!-- Replace with a live link -->
+- 📄 My Resume: [View PDF](#) <!-- Replace with a working resume link -->
 - ⚡ Fun fact: **Tech memes keep me sane 😄**
 
 ---
 
-### 🌐 Connect with Me
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sayan_314" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sayanchatterjee2005" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/sayan_314" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/sayan_314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan_314" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayanchatterjee2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanchatterjee2005" height="30" width="40" /></a>
+<a href="https://instagram.com/sayan_314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_314" height="30" width="40" /></a>
 </p>
+
+
 
 ---
 
@@ -49,6 +58,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -73,4 +88,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Code Animation" />
 </p>
+
 
